@@ -82,9 +82,24 @@ Whether you want to drink more water 💧, exercise regularly 💪, read daily �
 
 ## 📱 Screenshots
 
-| Home Screen | Progress View | Settings Panel |
-|-------------|---------------|----------------|
-| 🏠 Track daily habits | 📊 View weekly trends | ⚙️ Manage your profile |
+<div align="center">
+
+### 🏠 **Home Screen**
+Track your daily habits with beautiful progress indicators and streak counters
+
+<img src="screenshots/home-screen.jpeg" alt="Home Screen" width="300"/>
+
+### 📊 **Progress Screen** 
+Visualize your weekly completion trends and habit statistics
+
+<img src="screenshots/progress-screen.jpeg" alt="Progress Screen" width="300"/>
+
+### ⚙️ **Settings Screen**
+Manage your profile, habits, and notification preferences
+
+<img src="screenshots/settings-screen.jpeg" alt="Settings Screen" width="300"/>
+
+</div>
 
 ## 🚀 Quick Start
 
